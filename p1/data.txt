@@ -1,0 +1,7 @@
+kemal       altinde   123456
+kazim       golat     123457
+kamil       altikde   123459
+asli        soyutda   123455
+ismet       kanitde   123451
+elif        hasatdi   123475
+enes        artisdi   123456

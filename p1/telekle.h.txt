@@ -1,0 +1,27 @@
+int telekle()
+{
+
+kayit yenikayit;
+FILE* fptr;
+fptr=fopen("data.txt","a");
+if(fptr==NULL)
+  return -1;
+printf("\n\n");
+printf("isim giriniz:(max 20 karekter):\n");
+scanf("%s",yenikayit.isim);
+printf("soy isim giriniz:(max 20 karekter):\n");
+scanf("%s",yenikayit.soyisim);
+printf("numara  giriniz:(max 20 karekter):\n");
+scanf("%s",yenikayit.no);
+
+fprintf(fptr,"\n%s %s %s",yenikayit.isim,yenikayit.soyisim,yenikayit.no);
+fclose(fptr);
+
+
+
+
+
+
+return 0;
+
+}

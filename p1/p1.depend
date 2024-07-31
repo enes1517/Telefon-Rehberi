@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1714651545 source:c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baslik.h.txt"
+	"menu.h.txt"
+	"telara.h.txt"
+	"telekle.h.txt"
+	"tellist.h.txt"
+
+1714647609 c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\baslik.h.txt
+
+1714651392 c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\menu.h.txt
+
+1714650119 c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\telara.h.txt
+
+1714652492 c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\telekle.h.txt
+
+1714647380 c:\users\hp\documents\Özel office Þablonlarý\codeblocks\yeni klasör\p1\tellist.h.txt
+
+1720966817 source:c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baslik.h.txt"
+	"menu.h.txt"
+	"telara.h.txt"
+	"telekle.h.txt"
+	"tellist.h.txt"
+	"no ara.h.txt"
+	"soyara.h.txt"
+
+1720965862 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\baslik.h.txt
+
+1718874738 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\menu.h.txt
+
+1718879162 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\telara.h.txt
+
+1714652492 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\telekle.h.txt
+
+1718877980 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\tellist.h.txt
+
+1720966232 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\no ara.h.txt
+
+1720966232 c:\users\hp\documents\codeblocks\codeblocks\yeni klasör\p1\soyara.h.txt
+

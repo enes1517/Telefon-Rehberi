@@ -1,0 +1,28 @@
+int tellist()
+{
+kayit mevcut;
+FILE* fptr;
+fptr=fopen("data.txt","r");
+if(fptr==NULL)
+  return -1;
+printf("isim\t\t\tsoyisim\t\t\ttelefon\n");
+printf("----\t\t\t-------\t\t\t-------\n\n");
+
+while(!feof(fptr))
+{
+fscanf(fptr,"%s%s%s",mevcut.isim,mevcut.soyisim,mevcut.no);
+printf("%s\t\t\t",mevcut.isim);
+printf("%s\t\t\t",mevcut.soyisim);
+printf("%s\t\t\t\n",mevcut.no);
+}
+
+
+
+
+
+fclose(fptr);
+
+
+
+
+}

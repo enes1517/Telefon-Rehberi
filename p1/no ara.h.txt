@@ -1,0 +1,45 @@
+int noara(char*isimara)
+{
+kayit mevcut;
+FILE* fptr;
+fptr=fopen("data.txt","r");
+if(fptr==NULL)
+  return -1;
+int i=0;
+while(!feof(fptr))
+{
+fscanf(fptr,"%s%s%s",mevcut.isim,mevcut.soyisim,mevcut.no);
+if(!strcmp(isimara,mevcut.no))
+{
+printf("%s\t\t\t",mevcut.isim);
+printf("%s\t\t\t",mevcut.soyisim);
+printf("%s\n",mevcut.no);
+i++;
+}
+
+}
+
+
+
+fclose(fptr);
+return i;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fclose(fptr);

@@ -1,0 +1,13 @@
+typedef struct
+{
+    char isim[20];
+    char soyisim[20];
+    char no[20];
+
+}kayit;
+void menu();
+int telekle();
+int tellist();
+int telara(char *isim);
+int noara(char *ad);
+int soyara(char *name);
